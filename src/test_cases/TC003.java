@@ -2,14 +2,9 @@ package test_cases;
 
 public class TC003 {
 
+    // first lines
 
-    //Test case 2
+    // second line
 
-    // writing smoke tests...
-
-    // creating a report
-
-    // screenshot in failure
-
-
+    // thread line
 }
